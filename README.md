@@ -1,8 +1,8 @@
 ## Olá! Eu sou Bruno Camerin Santarem
 ### Seja bem vindo 👋
 
-- 🔭 Atualmente estou cursando Ciência da Computação na UNESP Rio Claro
-- 🌱 Estudando front-end: HTML, CSS e Javascript
+- 🔭 Sou formado em Bacharelado em Ciência da Computação na UNESP Rio Claro
+- 🌱 Estudando front-end: PL/SQL, Oracle APEX e Salesforce
 - 😄 Pronomes: ele/dele
 
 <div>
