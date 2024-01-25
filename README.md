@@ -2,7 +2,7 @@
 ### Seja bem vindo 👋
 
 - 🔭 Sou formado em Bacharelado em Ciência da Computação na UNESP Rio Claro
-- 🌱 Estudando front-end: PL/SQL, Oracle APEX e Salesforce
+- 🌱 Estudando e Atuando com: PL/SQL, Oracle APEX e Salesforce
 - 😄 Pronomes: ele/dele
 
 <div>
