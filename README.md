@@ -1,9 +1,11 @@
 ## Olá! Eu sou Bruno Camerin Santarem
 ### Seja bem vindo 👋
 
-- 🔭 Sou formado em Bacharelado em Ciência da Computação na UNESP Rio Claro
-- 🌱 Estudando e Atuando com: PL/SQL, Oracle APEX e Salesforce
-- 😄 Pronomes: ele/dele
+- Sou formado em Bacharelado em Ciência da Computação na UNESP Rio Claro
+- Cargo atual: Desenvolvedor Frontend / Publisher AEM
+- Atuando com: Javascript, HTML, CSS e Adobe Experience Manager
+- Estudando: NextJS, Typescript, React
+- Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/Bruzaum">
